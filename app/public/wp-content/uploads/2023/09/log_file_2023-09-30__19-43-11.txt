@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Theme Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://wordpress-1123185-3934609.cloudwaysapps.com
+Data file = /home/1123185.cloudwaysapps.com/sxspdcdzyj/public_html/wp-content/themes/foodsy/admin/demo-data/01/content.xml
+Widget file = /home/1123185.cloudwaysapps.com/sxspdcdzyj/public_html/wp-content/themes/foodsy/admin/demo-data/01/widgets.wie
+Customizer file = /home/1123185.cloudwaysapps.com/sxspdcdzyj/public_html/wp-content/themes/foodsy/admin/demo-data/01/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+(Pixelwars) About Me - About me - Widget already exists
+Delicious: Recent Recipes - Recent Recipes - Widget already exists
+
+Post Sidebar : 
+
+(Pixelwars) About Me - About me - Widget already exists
+Delicious: Recent Recipes - Recent Recipes - Widget already exists
+
+Top Bar Left : 
+
+Navigation Menu - No Title - Widget already exists
+
+Top Bar Right : 
+
+(Pixelwars) Social Media Icon - No Title - Widget already exists
+(Pixelwars) Social Media Icon - No Title - Widget already exists
+(Pixelwars) Social Media Icon - No Title - Widget already exists
+(Pixelwars) Social Media Icon - No Title - Widget already exists
+(Pixelwars) Social Media Icon - No Title - Widget already exists
+
+Footer Subscribe : 
+
+Mailchimp Sign-Up Form - Newsletter - Widget already exists
+
+Footer Instagram : 
+
+Social Feed Gallery - No Title - Widget already exists
+
+Footer Copyright Text : 
+
+Block - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

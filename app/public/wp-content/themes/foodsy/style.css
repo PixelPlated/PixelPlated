@@ -1,0 +1,31 @@
+/*
+Theme Name:        Foodsy
+Text Domain:       foodsy
+Version:           1.0.1
+Description:       Food Blog WordPress Theme
+Tested up to:      6.2
+Requires at least: 5.9
+Requires PHP:      5.6
+Tags:              blog
+Author:            Pixelwars
+Author URI:        https://themeforest.net/user/pixelwars
+Theme URI:         https://themeforest.net/user/pixelwars/portfolio
+License:           ThemeForest License
+License URI:       https://themeforest.net/licenses
+Domain Path:       /languages
+*/
+
+
+/*
+    Do not remove any of the commented text above as it is used by the theme for proper function!
+*/
+
+
+/* Plugin: "Top 10 Popular Posts" */
+
+.tptn_counter {
+	display: none;
+}
+
+/* Plugin: "Top 10 Popular Posts" */
+

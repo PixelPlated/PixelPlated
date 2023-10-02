@@ -1,0 +1,17 @@
+
+
+
+
+Update History
+
+
+
+v1.0.1 - 19 September 2023
+
+- fixed: "I Recommend This" plugin issue
+
+
+v1.0.0 - 4 September 2022
+
+- initial release
+
